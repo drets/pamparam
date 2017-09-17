@@ -1,0 +1,397 @@
+* Grammar                                                          :cards:
+** ich/du/er,sie,es/wir/ihr/sie,Sie
+e/st/t/en/t/en
+* Words                                                               :cards:
+** question
+die Frage
+die Fragen (pl.)
+** statement
+die Aussage
+die Aussagen
+** emergency doctor
+der Notarzt
+** information desk
+die Auskunft
+** correct
+richtig
+** week
+die Woche
+*** seven days a week
+sieben Tage die Woche
+** year
+das Jahr
+*** one calendar year
+ein Kalenderjahr
+** today
+heute
+*** today at 6:15
+heute um 6:15 Uhr
+** tomorrow
+morgen
+*** tomorrow at 10:10
+morgen um 10:10 Uhr
+** yesterday
+gestern
+*** yesterday afternoon
+gestern Nachmittag
+** calendar
+der Kalender
+*** day calendar
+Tageskalender
+** second
+die Sekunde
+*** just a second
+nur eine Sekunde
+** hour
+die Stunde
+*** one hour
+eine Stunde
+
+** minute
+die Minute
+*** three minutes
+drei Minuten
+** o'clock
+die Uhr
+*** 3 o'clock
+3 Uhr
+
+** clock
+die Uhr
+*** The clock reads eight minutes to twelve.
+Die Uhr zeigt acht Minuten vor zwölf.
+** can
+können
+*** can jump over
+drüberspringen können
+** use
+benutzen
+*** use a webcam
+eine Webcam benutzen
+** do
+machen
+*** to do it all
+es alles machen
+** go
+gehen
+*** go straight ahead
+geradeaus gehen
+** come
+kommen
+*** come towards a video camera
+auf eine Videokamera zukommen
+** laugh
+lachen
+*** laugh at a joke
+über einen Witz lachen
+** see
+sehen
+*** see a sunset
+einen Sonnenuntergang sehen
+** far
+weit
+*** The woman is looking at something far away.
+Die Frau guckt auf etwas, das weit entfernt ist.
+** small
+klein
+*** small chick
+kleines Küken
+** good
+gut
+*** good food
+gutes Essen
+** beautiful
+schön
+*** beautiful actress
+wunderschöne Schauspielerin
+** ugly
+hässlich
+*** ugly face
+hässliches Gesicht
+** difficult
+schwierig
+*** very difficult
+sehr schwierig
+** easy
+einfach
+*** easy decision
+einfache Entscheidung
+** bad
+schlecht
+*** bad day
+schlechter Tag
+** near
+nahe
+** Nice to meet you
+Freut mich, Sie kennenzulernen.
+*** Hello Peter, my name is Richard and it is nice to meet you.
+Hello Peter, my name is Richard and it is nice to meet you.
+** When I first meet someone, I like to say, "Hello."
+Wenn ich jemanden zum ersten Mal treffe, sage ich gerne "Hallo."
+** Good morning
+Guten Morgen
+** Good afternoon
+Guten Tag
+*** "Good afternoon," is a greeting used from noon to early evening.
+"Guten Tag" ist eine Begrüßung, die man vom Mittag bis zum frühen Abend gebraucht.
+** Good evening
+Guten Abend
+*** Good evening. Welcome.
+Guten Abend. Willkommen.
+** Good night
+Gute Nacht
+** How are you?
+Wie geht es dir?
+*** I'm doing very well, how are you?
+Mir geht es gut, wie geht es dir?
+** Thank you very much for the invitation.
+Danke vielmals für die Einladung.
+** No
+Nein
+*** "no" sign
+"Nein"-Zeichen
+** Delicious!
+Lecker!
+** I'm...(name).
+Ich bin... (Name).
+** Goodbye.
+Auf Wiedersehen.
+** Yes.
+Ja.
+** Monday
+der Montag
+*** Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.
+Montag, Dienstag, Mittwoch, Donnerstag und Freitag sind Wochentage.
+** Tuesday
+der Dienstag
+** Wednesday
+der Mittwoch
+*** game night Wednesday
+Spieleabend am Mittwoch
+** Thursday
+der Donnerstag
+*** Thursday, January 3rd
+Donnerstag, der 3. Januar
+** Friday
+der Freitag
+*** Friday, December 8th
+Freitag, der 8. Dezember
+** Saturday
+der Samstag
+*** no plans for Saturday
+keine Pläne für Samstag
+** Sunday
+Sonntag
+*** Sunday the seventeenth
+Sonntag, der Siebzehnte
+** May
+der Mai
+*** May flowers
+Maiblumen
+** January
+der Januar
+*** Tuesday, January 1st
+Dienstag, der 1. Januar
+** February
+der Februar
+*** February 29th
+29. Februar
+** March
+der März
+*** March 17th
+17. März
+** April
+der April
+*** April first
+erster April
+** June
+der Juni
+*** June wedding
+Juni-Hochzeit
+** July
+der Juli
+*** July barbeque
+Juli-Barbecue
+** August
+der August
+*** hot August day
+heißer Augusttag
+** September
+der September
+*** September 1st
+1. September
+** October
+der Oktober
+*** on October 13th
+am 13. Oktober
+** November
+der November
+*** Thanksgiving, Thursday November 24th
+Erntedankfest, Donnerstag, 24. November
+** December
+der Dezember
+*** December 25th
+25. Dezember
+** zero
+null
+*** number zero
+Nummer null
+** one
+eins
+** two
+zwei
+*** two degrees
+zwei Grad
+** three
+drei
+*** number three
+Nummer drei
+** four
+vier
+*** number four
+Nummer vier
+** five
+fünf
+*** five degrees
+fünf Grad
+** six
+sechs
+*** six things
+sechs Dinge
+** seven
+sieben
+*** seven things
+sieben Dinge
+** eight
+acht
+*** eight degrees
+acht Grad
+** nine
+neun
+*** nine degrees
+neun Grad
+** ten
+zehn
+*** ten degrees
+zehn Grad
+** coffee
+der Kaffee
+*** cup of coffee
+Tasse Kaffee
+** beer
+das Bier
+*** can of beer
+Dose Bier
+** tea
+der Tee
+*** cup of tea
+Tasse Tee
+** wine
+der Wein
+*** glass of wine
+Glas Wein
+** water
+das Wasser
+*** Can I have some water, please?
+Kann ich bitte etwas Wasser haben?
+** beef
+das Rindfleisch
+*** flavorful beef
+geschmackvolles Rindfleisch
+** pork
+das Schweinefleisch
+*** pork chops
+Schweinekoteletts
+** chicken
+das Hühnchen
+*** chicken for dinner
+Hühnchen zum Abendessen
+** lamb
+das Lamm
+*** rack of lamb
+Lammrücken
+** fish
+der Fisch
+*** school of fish
+ein Schwarm Fische
+** foot
+der Fuß
+*** right foot
+rechter Fuß
+** leg
+das Bein
+*** long legs
+lange Beine
+** head
+der Kopf
+*** head and neck
+Kopf und Hals
+** arm
+der Arm
+*** two arms
+zwei Arme
+** hand
+die Hand
+*** left hand
+linke Hand
+** finger
+der Finger
+*** five fingers
+fünf Finger
+** body
+der Körper
+*** human body
+menschlicher Körper
+** stomach
+der Magen
+*** stomach pain
+Magenschmerzen
+** back
+der Rücken
+*** back muscles
+Rückenmuskeln
+** chest
+der Brustkorb
+*** X-ray of a chest
+Röntgenbild des Brustkorbs
+** nurse
+die Krankenschwester
+*** head nurse
+Oberkrankenschwester
+** employee
+der Angestellter
+*** female employee
+Angestellte
+** police officer
+die Polizistin
+*** police officer in uniform
+Polizist in Uniform
+** cook
+der Koch
+*** We hired a new cook for the hotel restaurant.
+Wir haben einen neuen Koch für das Hotelrestaurant eingestellt.
+** engineer
+der Ingenieur
+*** civil engineer
+Bauingenieur
+** doctor
+der Arzt
+*** doctor visit
+Arztbesuch
+** manager
+der Leiter
+*** The factory manager is giving instructions.
+Der Fabrikleiter gibt Anweisungen.
+** teacher
+die Lehrerin
+*** favorite teacher
+Lieblingslehrerin
+** programmer
+Programmierer
+*** computer programmer
+Computer-Programmierer
+** salesman
+der Verkäufer
+** car salesman
+Autoverkäufer
+
